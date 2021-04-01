@@ -1,0 +1,6 @@
+package com.example.springcloud.model;
+
+@Entity
+public class Price {
+
+}

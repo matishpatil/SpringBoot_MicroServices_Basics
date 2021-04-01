@@ -1,0 +1,5 @@
+package com.example.springcloud.restclient;
+
+public class PriceServClient {
+
+}

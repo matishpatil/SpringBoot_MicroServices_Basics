@@ -1,0 +1,5 @@
+package com.example.springcloud.service;
+
+public class PriceCalculator {
+
+}

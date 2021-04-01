@@ -1,0 +1,5 @@
+package com.example.springcloud.repos;
+
+public interface CouponRepo {
+
+}
